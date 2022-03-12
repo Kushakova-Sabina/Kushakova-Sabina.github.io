@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital@1&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darksalmon;
+
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    color: azure;
+    text-decoration: none;
+    
+}
